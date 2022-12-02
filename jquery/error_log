@@ -1,0 +1,5 @@
+[15-Aug-2022 20:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/p10yvd6tg7v0/public_html/jquery/lib.php:6
+Stack trace:
+#0 /home/p10yvd6tg7v0/public_html/jquery/lib.php(9): mbv()
+#1 {main}
+  thrown in /home/p10yvd6tg7v0/public_html/jquery/lib.php on line 6

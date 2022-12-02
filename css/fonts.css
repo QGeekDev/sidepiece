@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Modern-Regular";
+  /*font-weight: 600;*/
+  src: url("../fonts/Modern-Era-Regular.woff2.ttf");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Modern-Medium";
+  /*font-weight: 600;*/
+  src: url("../fonts/ModernEra-Medium.ttf");
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Modern-Bold";
+  /*font-weight: 600;*/
+  src: url("../fonts/ModernEra-Bold.otf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Modern-Extrabold";
+  /*font-weight: 600;*/
+  src: url("../fonts/ModernEra-ExtraBold.otf");
+  font-style: normal;
+}
+
